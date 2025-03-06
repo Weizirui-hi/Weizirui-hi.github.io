@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://bbs.bugcld.top</id>
+    <title>Gridea</title>
+    <updated>2025-03-06T13:58:45.106Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://bbs.bugcld.top"/>
+    <link rel="self" href="https://bbs.bugcld.top/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://bbs.bugcld.top/images/avatar.png</logo>
+    <icon>https://bbs.bugcld.top/favicon.ico</icon>
+    <rights>All rights reserved 2025, Gridea</rights>
+    <entry>
+        <title type="html"><![CDATA[什么是SWL号？如何获取SWL号？]]></title>
+        <id>https://bbs.bugcld.top/post/shi-me-shi-swl-hao-ru-he-huo-qu-swl-hao/</id>
+        <link href="https://bbs.bugcld.top/post/shi-me-shi-swl-hao-ru-he-huo-qu-swl-hao/">
+        </link>
+        <updated>2025-03-06T13:40:33.000Z</updated>
+        <content type="html"><![CDATA[<!-- more -->
+<blockquote>
+<p>本篇文章将带您学习守听台相关知识</p>
+</blockquote>
+<h1 id="swl-守听台号是什么">swl 守听台号是什么？</h1>
+<p>根据设台者的身份，业余电台可分为个人设置和团体 (单位) 设置两种。根据电台核准 使用的频率和发射功率，我国又将业余电台分为 A、B、C 三类，以及特殊业余电台。只收 听而不发射的电台被称为收听台，简称 “SWL”(Short Wave Listener)。SWL 虽然不发 出信号，但它同样可以体会到 HAM 世界的美妙风光，帮助你和其他爱好者取得联系，而不 用担心在稠密的住宅群中因为你的发信干扰了邻居的电视而招来不快。世界上有许多收听爱 好者。</p>
+<h1 id="如何申请-swl-守听台号">如何申请 swl 守听台号？</h1>
+<p>首先打开 https://swarl.org/callsigns<br>
+下翻，找到这个（下图）<br>
+<img src="https://bbs.bugcld.top/post-images/1741268936784.png" alt="" loading="lazy"><br>
+根据提示信息填写（见下图）<br>
+<img src="https://bbs.bugcld.top/post-images/1741268993264.jpeg" alt="" loading="lazy"><br>
+<img src="https://bbs.bugcld.top/post-images/1741269007210.jpeg" alt="" loading="lazy"><br>
+在等待上次更新后的 21 天后前往 http://list.swarl.org/ 查看情况（需翻墙）<br>
+记得填写信息的时候要写<strong>英文</strong>，如果是中文重写吧</p>
+]]></content>
+    </entry>
+</feed>
